@@ -8,8 +8,10 @@
 </head>
 <body>
 <form action="Servlet1" method="get">
-Username:<input type="text" name="uname"/>
-<input type="submit" value="clickHere"/>
+UserName:<input type="text" name="uname"/>
+Pass:<input type="text" name="pass"/>
+
+<input type="submit" value="Login"/>
 </form>
 </body>
 </html>
