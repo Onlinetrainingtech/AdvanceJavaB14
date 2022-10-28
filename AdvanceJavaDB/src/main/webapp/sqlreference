@@ -1,0 +1,10 @@
+create table adminpage(adminid varchar(100),adminname varchar(100))
+
+insert into adminpage values('admin@gmail.com','admin@123')
+
+select * from adminpage
+
+create table adduserreg(uname varchar(100),pass varchar(100),email varchar(100),mobile varchar(100))
+
+
+select * from adduserreg
