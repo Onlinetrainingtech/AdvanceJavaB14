@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hibernate-mapping>
+
+<class name="com.xyz.first.Category" table="Category">
+<id name="id">
+<generator class="increment"></generator>
+</id>
+<property name="cname"></property>
+<list name="productname" table="product">
+
+<key column="pid"></key>
+
+<index column="type"></index>
+
+<element column="pname" type="string"></element>
+
+</list>
+</class>
+
+</hibernate-mapping>
