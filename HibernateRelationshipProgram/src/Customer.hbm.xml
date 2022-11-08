@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hibernate-mapping>
+
+<class name="str.Customer" table="customer">
+
+<id name="customerId" column="custid"/>
+
+<property name="customerName" column="custname" length="10"/>
+
+<property name="forevenId" column="forevenId" insert="false"/>
+
+</class>
+
+</hibernate-mapping>
