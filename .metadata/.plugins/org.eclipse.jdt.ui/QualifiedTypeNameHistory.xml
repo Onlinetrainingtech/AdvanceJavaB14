@@ -21,4 +21,6 @@
     <fullyQualifiedTypeName name="javax.persistence.Id"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="com.xyz.springdemo.BaseballCoach"/>
+    <fullyQualifiedTypeName name="com.xyz.springdemo.TrackCoach"/>
 </qualifiedTypeNameHistroy>
