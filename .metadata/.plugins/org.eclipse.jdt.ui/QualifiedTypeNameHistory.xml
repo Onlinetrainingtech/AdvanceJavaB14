@@ -23,4 +23,9 @@
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="com.xyz.springdemo.BaseballCoach"/>
     <fullyQualifiedTypeName name="com.xyz.springdemo.TrackCoach"/>
+    <fullyQualifiedTypeName name="com.xyz.springdemo.Coach"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="SetterInject.Player"/>
+    <fullyQualifiedTypeName name="SetterInject.FootballPlayer"/>
 </qualifiedTypeNameHistroy>
