@@ -1,7 +1,0 @@
-127.0.0.1 - - [17/Oct/2022:22:12:29 +0530] "GET / HTTP/1.1" 404 992
-127.0.0.1 - - [17/Oct/2022:22:12:49 +0530] "GET /AdvanceJavaP1/index.jsp HTTP/1.1" 200 221
-127.0.0.1 - - [17/Oct/2022:22:12:50 +0530] "GET /favicon.ico HTTP/1.1" 404 1014
-127.0.0.1 - - [17/Oct/2022:22:12:56 +0530] "GET /AdvanceJavaP1/Servlet1? HTTP/1.1" 500 1772
-0:0:0:0:0:0:0:1 - - [17/Oct/2022:22:13:22 +0530] "GET /AdvanceJavaP1/Servlet1? HTTP/1.1" 200 35
-0:0:0:0:0:0:0:1 - - [17/Oct/2022:22:17:25 +0530] "GET /AdvanceJavaP1/index.jsp HTTP/1.1" 200 265
-0:0:0:0:0:0:0:1 - - [17/Oct/2022:22:17:30 +0530] "GET /AdvanceJavaP1/Servlet1?uname=admin HTTP/1.1" 200 40
