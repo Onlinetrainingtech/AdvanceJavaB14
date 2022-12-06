@@ -885,3 +885,5 @@ Caused by: java.lang.NoClassDefFoundError: Could not initialize class org.apache
 2022-11-19 22:04:01,927 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2022-11-19 22:04:01,940 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-11-19 22:04:01,941 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ConveyLabOnline\AdvanceJavaB14\SpringIntegratingWithHibernate\src\test\resources
+2022-12-03 21:40:28,297 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-03 21:40:56,992 [Worker-2: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
